@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./public/assets/DevSecOps.png" alt="Logo" width="100%" height="100%">
- <a href="file:///C:/Users/20245/OneDrive%20-%20V%20S%20Information%20Systems%20(PVT)%20LTD/DevOps%20Hands%20On%20Projects/Devops%20Projects/DevSecOps%20-Netfilx/Untitled%20Diagram.drawio.svg/">
+ 
   <br>
   <a href="http://netflix-clone-with-tmdb-using-react-mui.vercel.app/">
     <img src="./public/assets/netflix-logo.png" alt="Logo" width="100" height="32">
